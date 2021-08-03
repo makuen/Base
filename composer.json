@@ -1,0 +1,27 @@
+{
+    "name": "makuen/base",
+    "description": "base enum",
+    "type": "library",
+    "author": {
+        "name": "makuen",
+        "email": "machuan5318@163.com"
+    },
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Makuen\\Base\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+
+            ],
+            "aliases": {
+
+            }
+        }
+    }
+}
