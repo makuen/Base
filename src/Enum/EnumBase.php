@@ -3,13 +3,12 @@
 namespace Machuan\Base\Enum;
 
 /**
- * Copyright (C), 2016-2018, Shall Buy Life info. Co., Ltd.
  * ClassName: EnumBase
  * Description: 枚举基类
  *
- * @author whoami
+ * @author makuen
  * @Create Date    2021/8/3 14:43
- * @Update Date    2021/8/3 14:43 By whoami
+ * @Update Date    2021/8/3 14:43 By makuen
  * @version
  *
  * @property $key
